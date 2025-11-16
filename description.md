@@ -1,5 +1,4 @@
 # Indian Car Price Prediction
-![](http://cdn.dribbble.com/users/1239720/screenshots/3506944/car_mg.gif)
 ## Project Overview
 The aim of this data science project is to accurately predict car prices in major Indian metro cities using regression techniques. The prediction model is built on a wide range of vehicle attributes, including the car’s company, model, fuel type, color, kilometers driven, body style, ownership type, dealer location, warranty information, and overall quality score. Through detailed data preprocessing, exploratory analysis, and regression-based modeling, the project identifies the key factors influencing resale value and provides reliable price estimates. This helps both buyers and sellers make informed decisions in the Indian used-car market.
 
@@ -61,3 +60,4 @@ The quality score of a car has a direct bearing on its price. Cars with higher q
 In terms of machine learning models, decision tree regressor and random forest regressor models were employed to predict car prices. Among these, the random forest regressor model demonstrated superior performance. An examination of feature importance revealed that car age, body style, and car manufacturer are the key drivers affecting car prices.
 
 This data-driven project equips both buyers and sellers in the Indian car market with valuable insights, empowering them to make informed decisions and facilitating more accurate price predictions.
+
